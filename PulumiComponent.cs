@@ -27,6 +27,10 @@ namespace PulumiGithub
 
             Console.WriteLine(task2);
 
+            string task2 = "Ui task!";
+
+            Console.WriteLine(task2);
+
 //{content}
 
            return Output;
