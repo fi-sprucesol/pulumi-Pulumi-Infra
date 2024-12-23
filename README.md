@@ -1,2 +1,2 @@
-# pulumi-template-Infra
-this is Infra template
+# pulumi-Pulumi-Infra
+this is Infra Pulumi
