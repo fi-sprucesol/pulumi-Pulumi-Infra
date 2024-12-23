@@ -20,7 +20,16 @@ namespace PulumiGithub
         public Dictionary<string,object?> CreateAzureResources()
         {
            Dictionary<string, object?> Output = new Dictionary<string, object?>();
-           //{{content}}
+                      Console.WriteLine("Hello cosmos");
+
+           Console.WriteLine("Hello installdynatrace");
+
+            string task2 = "api task!";
+
+            Console.WriteLine(task2);
+
+
+		Output.Add("ResourceGroupName", rg.Name);
            return Output;
         }
     }
